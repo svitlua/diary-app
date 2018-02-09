@@ -5,8 +5,8 @@ Application uses **react-bootstrap** library.
 
 ### Main Features
 - User can add and delete items in the diary
-- Usar can add comments using CTRL+Enter key combination
-- Data is stored in Local Storage
+- User can add comments using CTRL+Enter key combination
+- Data is stored in **Local Storage**
 
 ### Design Tamplate
 ![design](/Empeek_test/test_UI.png)
