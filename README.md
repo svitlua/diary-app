@@ -12,4 +12,4 @@ https://svitlua.github.io/diary-app/
 - Data is stored in **Local Storage**
 
 ### Design Tamplate
-![design](/Empeek_test/test_UI.png)
+![design](/test_UI.png)
